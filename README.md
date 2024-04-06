@@ -1,4 +1,4 @@
-# tup-lc1-c10
+# Practicas 
 LC1
 
 Scripts en lenguaje C
